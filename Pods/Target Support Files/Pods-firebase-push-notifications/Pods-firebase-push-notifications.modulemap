@@ -1,0 +1,6 @@
+framework module Pods_firebase_push_notifications {
+  umbrella header "Pods-firebase-push-notifications-umbrella.h"
+
+  export *
+  module * { export * }
+}
